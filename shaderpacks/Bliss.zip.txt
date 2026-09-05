@@ -1,0 +1,2 @@
+#Sun Aug 02 19:52:06 GMT-03:00 2026
+TONEMAP=ToneMap_Hejl2015

@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "tick_interval": 100,
+  "boat_damage": 100.0,
+  "discard_boat": false,
+  "cache": {
+    "cache_size": 500,
+    "cache_time": 240
+  },
+  "sound": {
+    "play_sound": true,
+    "volume": 1.0,
+    "pitch": 1.0
+  }
+}

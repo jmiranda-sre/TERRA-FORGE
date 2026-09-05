@@ -1,0 +1,2 @@
+#Fri Jul 31 22:40:54 GMT-03:00 2026
+VIGNETTE=false

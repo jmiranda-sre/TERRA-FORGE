@@ -1,0 +1,32 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "yourdailymodder.weaponmaster.gui.WeaponMasterScreen": true,
+    "net.minecraft.client.gui.screens.options.OptionsScreen": true,
+    "net.caffeinemc.mods.sodium.client.gui.VideoSettingsScreen": true,
+    "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true,
+    "net.minecraft.client.gui.screens.ConfirmScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "net.minecraft.client.gui.screens.options.SoundOptionsScreen": true,
+    "punchy.client.config.PunchyConfigScreen": true,
+    "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true,
+    "journeymap.client.ui.dialog.about.AboutScreen": true,
+    "journeymap.client.ui.fullscreen.Fullscreen": true,
+    "journeymap.client.ui.option.ClientOptionsManager": true,
+    "journeymap.client.ui.option.ServerOptionsManager": true,
+    "de.maxhenkel.voicechat.gui.onboarding.SpeakerOnboardingScreen": true,
+    "net.minecraft.client.gui.screens.options.controls.ControlsScreen": true,
+    "net.minecraft.client.gui.screens.options.controls.KeyBindsScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "xaero.map.gui.GuiWorldMapSettings": true,
+    "xaero.common.gui.GuiAddWaypoint": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "xaero.common.gui.GuiMinimapViewSettings": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "dev.terminalmc.clientsort.client.gui.screen.edit.PlayerEditorScreen": true,
+    "net.minecraft.client.gui.screens.options.SkinCustomizationScreen": true
+  },
+  "hideBackground": {
+    "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "_comment": {
+    "description": "List types you want to block in \u0027disallowedTypes\u0027.",
+    "available_types_help": {
+      "NATURAL": "Normal world spawning (darkness, grass, etc.)",
+      "CHUNK_GENERATION": "Spawned when a new chunk is created",
+      "SPAWNER": "Monster Spawner blocks",
+      "STRUCTURE": "Spawned as part of a structure (Witch huts, etc.)",
+      "BREEDING": "Animals falling in love",
+      "MOB_SUMMONED": "Summoned by other mobs (Illagers, Vexes)",
+      "JOCKEY": "Spider jockeys and similar",
+      "EVENT": "Raids or special world events",
+      "CONVERSION": "Zombie villagers curing, piglins turning to zombified",
+      "REINFORCEMENT": "Zombie reinforcements",
+      "TRIGGERED": "No description available.",
+      "BUCKET": "No description available.",
+      "SPAWN_EGG": "Creative mode spawn eggs",
+      "COMMAND": "Spawned via /summon or command blocks",
+      "DISPENSER": "Spawned from a dispenser",
+      "PATROL": "Illager patrols",
+      "TRIAL_SPAWNER": "No description available."
+    }
+  },
+  "minecraft:allay": {
+    "disallowedTypes": []
+  },
+  "minecraft:armadillo": {
+    "disallowedTypes": []
+  },
+  "minecraft:axolotl": {
+    "disallowedTypes": []
+  },
+  "minecraft:bat": {
+    "disallowedTypes": []
+  },
+  "minecraft:bee": {
+    "disallowedTypes": []
+  },
+  "minecraft:blaze": {
+    "disallowedTypes": []
+  },
+  "minecraft:bogged": {
+    "disallowedTypes": []
+  },
+  "minecraft:breeze": {
+    "disallowedTypes": []
+  },
+  "minecraft:camel": {
+    "disallowedTypes": []
+  },
+  "minecraft:cat": {
+    "disallowedTypes": []
+  },
+  "minecraft:cave_spider": {
+    "disallowedTypes": []
+  },
+  "minecraft:chicken": {
+    "disallowedTypes": []
+  },
+  "minecraft:cod": {
+    "disallowedTypes": []
+  },
+  "minecraft:cow": {
+    "disallowedTypes": []
+  },
+  "minecraft:creeper": {
+    "disallowedTypes": []
+  },
+  "minecraft:dolphin": {
+    "disallowedTypes": []
+  },
+  "minecraft:donkey": {
+    "disallowedTypes": []
+  },
+  "minecraft:drowned": {
+    "disallowedTypes": []
+  },
+  "minecraft:elder_guardian": {
+    "disallowedTypes": []
+  },
+  "minecraft:ender_dragon": {
+    "disallowedTypes": []
+  },
+  "minecraft:enderman": {
+    "disallowedTypes": []
+  },
+  "minecraft:endermite": {
+    "disallowedTypes": []
+  },
+  "minecraft:evoker": {
+    "disallowedTypes": []
+  },
+  "minecraft:fox": {
+    "disallowedTypes": []
+  },
+  "minecraft:frog": {
+    "disallowedTypes": []
+  },
+  "minecraft:ghast": {
+    "disallowedTypes": []
+  },
+  "minecraft:giant": {
+    "disallowedTypes": []
+  },
+  "minecraft:glow_squid": {
+    "disallowedTypes": []
+  },
+  "minecraft:goat": {
+    "disallowedTypes": []
+  },
+  "minecraft:guardian": {
+    "disallowedTypes": []
+  },
+  "minecraft:hoglin": {
+    "disallowedTypes": []
+  },
+  "minecraft:horse": {
+    "disallowedTypes": []
+  },
+  "minecraft:husk": {
+    "disallowedTypes": []
+  },
+  "minecraft:illusioner": {
+    "disallowedTypes": []
+  },
+  "minecraft:iron_golem": {
+    "disallowedTypes": []
+  },
+  "minecraft:llama": {
+    "disallowedTypes": []
+  },
+  "minecraft:magma_cube": {
+    "disallowedTypes": []
+  },
+  "minecraft:mooshroom": {
+    "disallowedTypes": []
+  },
+  "minecraft:mule": {
+    "disallowedTypes": []
+  },
+  "minecraft:ocelot": {
+    "disallowedTypes": []
+  },
+  "minecraft:panda": {
+    "disallowedTypes": []
+  },
+  "minecraft:parrot": {
+    "disallowedTypes": []
+  },
+  "minecraft:phantom": {
+    "disallowedTypes": []
+  },
+  "minecraft:pig": {
+    "disallowedTypes": []
+  },
+  "minecraft:piglin": {
+    "disallowedTypes": []
+  },
+  "minecraft:piglin_brute": {
+    "disallowedTypes": []
+  },
+  "minecraft:pillager": {
+    "disallowedTypes": []
+  },
+  "minecraft:polar_bear": {
+    "disallowedTypes": []
+  },
+  "minecraft:pufferfish": {
+    "disallowedTypes": []
+  },
+  "minecraft:rabbit": {
+    "disallowedTypes": []
+  },
+  "minecraft:ravager": {
+    "disallowedTypes": []
+  },
+  "minecraft:salmon": {
+    "disallowedTypes": []
+  },
+  "minecraft:sheep": {
+    "disallowedTypes": []
+  },
+  "minecraft:shulker": {
+    "disallowedTypes": []
+  },
+  "minecraft:silverfish": {
+    "disallowedTypes": []
+  },
+  "minecraft:skeleton": {
+    "disallowedTypes": []
+  },
+  "minecraft:skeleton_horse": {
+    "disallowedTypes": []
+  },
+  "minecraft:slime": {
+    "disallowedTypes": []
+  },
+  "minecraft:sniffer": {
+    "disallowedTypes": []
+  },
+  "minecraft:snow_golem": {
+    "disallowedTypes": []
+  },
+  "minecraft:spider": {
+    "disallowedTypes": []
+  },
+  "minecraft:squid": {
+    "disallowedTypes": []
+  },
+  "minecraft:stray": {
+    "disallowedTypes": []
+  },
+  "minecraft:strider": {
+    "disallowedTypes": []
+  },
+  "minecraft:tadpole": {
+    "disallowedTypes": []
+  },
+  "minecraft:trader_llama": {
+    "disallowedTypes": []
+  },
+  "minecraft:tropical_fish": {
+    "disallowedTypes": []
+  },
+  "minecraft:turtle": {
+    "disallowedTypes": []
+  },
+  "minecraft:vex": {
+    "disallowedTypes": []
+  },
+  "minecraft:villager": {
+    "disallowedTypes": []
+  },
+  "minecraft:vindicator": {
+    "disallowedTypes": []
+  },
+  "minecraft:wandering_trader": {
+    "disallowedTypes": []
+  },
+  "minecraft:warden": {
+    "disallowedTypes": []
+  },
+  "minecraft:witch": {
+    "disallowedTypes": []
+  },
+  "minecraft:wither": {
+    "disallowedTypes": []
+  },
+  "minecraft:wither_skeleton": {
+    "disallowedTypes": []
+  },
+  "minecraft:wolf": {
+    "disallowedTypes": []
+  },
+  "minecraft:zoglin": {
+    "disallowedTypes": []
+  },
+  "minecraft:zombie": {
+    "disallowedTypes": []
+  },
+  "minecraft:zombie_horse": {
+    "disallowedTypes": []
+  },
+  "minecraft:zombie_villager": {
+    "disallowedTypes": []
+  },
+  "minecraft:zombified_piglin": {
+    "disallowedTypes": []
+  },
+  "biomesoplenty:boat": {
+    "disallowedTypes": []
+  },
+  "biomesoplenty:chest_boat": {
+    "disallowedTypes": []
+  },
+  "lootr:lootr_cart": {
+    "disallowedTypes": []
+  },
+  "lootr:item_frame": {
+    "disallowedTypes": []
+  },
+  "sanity_renewed:rotting_stalker": {
+    "disallowedTypes": []
+  },
+  "sanity_renewed:sneaking_terror": {
+    "disallowedTypes": []
+  },
+  "undeadnights:horde_zombie": {
+    "disallowedTypes": []
+  },
+  "undeadnights:demolition_zombie": {
+    "disallowedTypes": []
+  },
+  "undeadnights:elite_zombie": {
+    "disallowedTypes": []
+  },
+  "undeadnights:tnt_projectile": {
+    "disallowedTypes": []
+  },
+  "zombieawareness:scent": {
+    "disallowedTypes": []
+  },
+  "universal_graves:xp": {
+    "disallowedTypes": []
+  }
+}

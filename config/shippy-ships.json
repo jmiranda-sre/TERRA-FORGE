@@ -1,0 +1,19 @@
+{
+  "sailboat_step_1": 10,
+  "sailboat_step_2": 64,
+  "sailboat_step_3": 64,
+  "sailboat_step_4": 20,
+  "sailboat_step_5": 25,
+  "cog_step_1": 64,
+  "cog_step_2": 300,
+  "cog_step_3": 200,
+  "cog_step_4": 60,
+  "cog_step_5": 70,
+  "caravel_step_1": 160,
+  "caravel_step_2": 900,
+  "caravel_step_3": 450,
+  "caravel_step_4": 150,
+  "caravel_step_5": 140,
+  "enable_block_collisions": false,
+  "enable_simplified_ship_managment": false
+}

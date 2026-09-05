@@ -1,0 +1,30 @@
+# Personal worlds (huge, kept out of the repo)
+saves/
+
+# Runtime logs / reports / caches
+logs/
+crash-reports/
+downloads/
+particular_cache/
+polymer/
+journeymap/
+xaero/
+XaeroWaypoints_BACKUP240807/
+.voxy/
+server-resource-packs/
+.fabric/
+data/
+tacz/
+
+# User-specific data
+options.txt
+usercache.json
+usernamecache.json
+
+# Redundant backups
+mods.zip
+mods-bak-1.21.1/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db

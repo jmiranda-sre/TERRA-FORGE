@@ -1,0 +1,13 @@
+{
+  "printIDs": false,
+  "protectAllMobs": false,
+  "mods": [
+    "iceandfire"
+  ],
+  "mobs": [
+    "minecraft:zombie",
+    "minecraft:drowned",
+    "minecraft:skeleton",
+    "minecraft:stray"
+  ]
+}

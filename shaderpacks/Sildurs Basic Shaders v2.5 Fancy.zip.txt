@@ -1,0 +1,12 @@
+#Mon Aug 10 15:22:19 BRT 2026
+SSAO=false
+TAA=false
+Waving_Entities=false
+Waving_Fire=false
+Waving_Grass=false
+Waving_Lanterns=false
+Waving_Lava=false
+Waving_Leaves=false
+Waving_Tallgrass=false
+Waving_Vines=false
+Waving_Water=false

@@ -1,0 +1,11 @@
+{
+  "xOffset": -224,
+  "yOffset": -22,
+  "showExclamationMarks": true,
+  "vertical": false,
+  "showDurabilityPoints": false,
+  "durabilityWarningThreshold": 0.2,
+  "boxSize": 22,
+  "spacing": 2,
+  "visible": true
+}
